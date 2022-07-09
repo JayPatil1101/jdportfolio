@@ -29,10 +29,10 @@ const SocialMedia = () => {
             <ul><a href = 'https://www.linkedin.com/in/jaypatil1101/'><FiLinkedin /></a></ul>
         </div>
         <div>
-            <ul><a href = 'https://www.linkedin.com/in/jaypatil1101/overlay/1635488760360/single-media-viewer/'><IoNewspaperSharp /></a></ul>
+            <ul><a href = 'https://www.linkedin.com/in/jaypatil1101/overlay/1635496389243/single-media-viewer/'><IoNewspaperSharp /></a></ul>
         </div>
         <div>
-            <ul><a href = 'https://blog.medium.com/'><FaBlog /></a></ul>
+            <ul><a href = 'https://medium.com/@jaypatil1101'><FaBlog /></a></ul>
         </div>
     </div>
   )
